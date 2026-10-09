@@ -85,6 +85,18 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
+### 🌐 Networking & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DNS" />
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-4B5563?style=for-the-badge&logo=cloudflare&logoColor=white" alt="HTTP and HTTPS" />
+  <img src="https://img.shields.io/badge/VPN-0F766E?style=for-the-badge&logo=wireguard&logoColor=white" alt="VPN" />
+  <img src="https://img.shields.io/badge/Firewalls-DC2626?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewalls" />
+  <img src="https://img.shields.io/badge/OSI_Model-7C3AED?style=for-the-badge&logoColor=white" alt="OSI model" />
+  <img src="https://img.shields.io/badge/Subnetting-2563EB?style=for-the-badge&logoColor=white" alt="Subnetting" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
 ---
 
 ## 🚀 Featured Projects
